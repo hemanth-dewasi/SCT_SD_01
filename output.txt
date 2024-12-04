@@ -1,0 +1,4 @@
+Enter the temperature value:69
+Enter the scale of the input temperature (Celsius,Fahrenheit,kelvin):celsius
+Enter the scale to convert to(Celsius,Fahrenheit,kelvin):kelvin
+69.0 Celsius is equal to 342.15 Kelvin.
